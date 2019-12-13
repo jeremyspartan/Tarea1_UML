@@ -7,36 +7,28 @@ namespace Clases
 {
     public class Serie
     {
-        public int Titulo
+        public string Titulo
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
-        public int Annio
+        public DateTime Annio
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
-        public int Sinopsis
+        public string Sinopsis
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
-        public int Genero
+        public char Genero
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
     }
 }

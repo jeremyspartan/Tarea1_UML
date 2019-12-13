@@ -5,27 +5,28 @@ using System.Text;
 
 namespace Clases
 {
-    public class Capitulo
+    public class Usuario
     {
-        public Temporada Temporada
+
+        public string Nombe
         {
             get;
             set;
         }
 
-        public int Titulo
+        public string Apellidos
         {
             get;
             set;
         }
 
-        public double Duracion
+        public string Email
         {
             get;
             set;
         }
 
-        public string Sinopsis
+        public DateTime FechaNacimiento
         {
             get;
             set;

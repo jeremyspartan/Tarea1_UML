@@ -1,6 +1,6 @@
 ﻿namespace Tarea1
 {
-    partial class Form1
+    partial class Tarea1UmlForm
     {
         /// <summary>
         /// Variable del diseñador necesaria.

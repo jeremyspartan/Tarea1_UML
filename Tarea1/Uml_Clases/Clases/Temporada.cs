@@ -9,26 +9,19 @@ namespace Clases
     {
         public Serie Serie
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
-        public int FechaProduccion
+        public DateTime FechaProduccion
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
-        public int FechaEstreno
+        public DateTime FechaEstreno
         {
-            get => default;
-            set
-            {
-            }
-        }
-    }
+            get;
+            set;
+        }}
 }

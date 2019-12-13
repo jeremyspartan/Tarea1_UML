@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Clases.Serie">
-    <Position X="0.75" Y="0.5" Width="1.5" />
+    <Position X="0.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAgAAAAAgAAAAAAAAAAAIAAAAAAAAAAAAAAAAAABA=</HashCode>
       <FileName>Uml_Clases\Clases\Serie.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Clases.Temporada">
-    <Position X="3.75" Y="0.5" Width="1.5" />
+    <Position X="2.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AIAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
       <FileName>Uml_Clases\Clases\Temporada.cs</FileName>
@@ -18,7 +18,7 @@
     </ShowAsAssociation>
   </Class>
   <Class Name="Clases.Capitulo">
-    <Position X="6.5" Y="0.5" Width="1.5" />
+    <Position X="5.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAgAAAAAAAIAAAAAAAABAAAAAAAAAAAAABA=</HashCode>
       <FileName>Uml_Clases\Clases\Capitulo.cs</FileName>
@@ -27,12 +27,23 @@
       <Property Name="Temporada" />
     </ShowAsAssociation>
   </Class>
-  <Class Name="Tarea1.Usuario">
-    <Position X="3.75" Y="2.25" Width="1.5" />
+  <Class Name="Clases.Usuario">
+    <Position X="7" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>EAAAAAAAACAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
-      <FileName>Usuario.cs</FileName>
+      <FileName>Uml_Clases\Clases\Usuario.cs</FileName>
     </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.UsuarioSerie">
+    <Position X="3.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAACAAAAAAAAAAAAEAAACAABAAEAAAACAA=</HashCode>
+      <FileName>UsuarioSerie.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Capitulo" />
+      <Property Name="Usuario" />
+    </ShowAsAssociation>
   </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

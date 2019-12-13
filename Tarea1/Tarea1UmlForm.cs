@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Tarea1
 {
-    public partial class Form1 : Form
+    public partial class Tarea1UmlForm : Form
     {
-        public Form1()
+        public Tarea1UmlForm()
         {
             InitializeComponent();
         }

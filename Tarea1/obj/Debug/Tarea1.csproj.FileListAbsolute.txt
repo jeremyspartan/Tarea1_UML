@@ -1,0 +1,8 @@
+C:\Users\jerem_000\Documents\GitHub\Tarea1_UML\Tarea1\bin\Debug\Tarea1.exe.config
+C:\Users\jerem_000\Documents\GitHub\Tarea1_UML\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\jerem_000\Documents\GitHub\Tarea1_UML\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\jerem_000\Documents\GitHub\Tarea1_UML\Tarea1\obj\Debug\Tarea1.csprojAssemblyReference.cache
+C:\Users\jerem_000\Documents\GitHub\Tarea1_UML\Tarea1\obj\Debug\Tarea1.Properties.Resources.resources
+C:\Users\jerem_000\Documents\GitHub\Tarea1_UML\Tarea1\obj\Debug\Tarea1.csproj.GenerateResource.cache
+C:\Users\jerem_000\Documents\GitHub\Tarea1_UML\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\jerem_000\Documents\GitHub\Tarea1_UML\Tarea1\obj\Debug\Tarea1.pdb
